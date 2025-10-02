@@ -37,7 +37,7 @@
   "dependencies": {},
   "devDependencies": {
     "@psf/bch-js": "^4.17.6",
-    "apidoc": "^0.23.0",
+    "apidoc": "^0.50.0",
     "chai": "^4.1.2",
     "coveralls": "^3.0.2",
     "eslint": "5.16.0",
